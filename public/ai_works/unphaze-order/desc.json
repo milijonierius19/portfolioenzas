@@ -1,0 +1,7 @@
+{
+  "title": "AI Supplier Product Finder Telegram Bot",
+  "summary": "Telegram bot that finds products from Chinese suppliers using AI image recognition and supplier APIs.",
+  "description": "This project is a Telegram bot designed to automate product sourcing from Chinese suppliers. A user can send either a product image or a product name to the bot. When an image is provided, the bot sends it to the Gemini AI API to identify the product model and extract a searchable product name. The identified product information is then sent to the LovBuy supplier API to search for available listings from Chinese suppliers. The results are analyzed and filtered to select the most relevant and highest-quality listing based on availability and match quality. If a suitable product is found, the bot returns the best result to the user through Telegram. If no matching supplier listing is found, the bot simply returns no result. This automation simplifies product sourcing by combining AI-based product identification with automated supplier searches.",
+  "cover": "cover.png",
+  "video": "unphazedwrk.mp4"
+}

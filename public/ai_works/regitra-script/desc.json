@@ -1,0 +1,7 @@
+{
+    "title": "Vehicle Status Checker Automation",
+    "summary": "Automated script that checks my vehicle status in Regitra every morning.",
+    "description": "This workflow automatically checks the status of my vehicle in the Regitra system every morning. The script runs on a scheduled job and uses browser automation to log into the Regitra portal and retrieve the latest vehicle information. It extracts key data such as insurance validity, technical inspection status, and registration details. The workflow parses the retrieved data and evaluates whether any important status has changed or requires attention. If a relevant change is detected, the system can trigger a notification or log the updated information. The automation removes the need to manually check the Regitra portal and ensures that important vehicle-related statuses are monitored daily.",
+    "cover": "cover.png",
+    "video": "regitrascript.mp4"
+  }
